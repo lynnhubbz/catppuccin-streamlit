@@ -1,0 +1,10 @@
+[Background]
+paneBackground = "base"
+paneSecondary = ["crust", "mantle"]
+elementSurface = ["surface0", "surface1", "surface2"]
+overlays = ["overlay0", "overlay1", "overlay2"]
+
+[Typography]
+bodyCopy = "text"
+headlineMain = "text"
+linkColor = "blue"

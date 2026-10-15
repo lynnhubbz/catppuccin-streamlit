@@ -1,0 +1,5 @@
+[[theme]]
+colorSource = palleteName
+backgroundColor = Background.paneBackground.base
+secondaryBackgroundColor = Background.paneSecondary.mantle
+textColor = Typography.bodyCopy
