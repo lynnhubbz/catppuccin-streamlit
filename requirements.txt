@@ -1,0 +1,14 @@
+streamlit>=1.50
+pandas
+numpy
+altair
+
+# optional (the app shows an install hint if these are missing)
+matplotlib
+plotly
+requests
+streamlit-extras
+streamlit-aggrid
+streamlit-lottie
+streamlit-agraph
+streamlit-option-menu
